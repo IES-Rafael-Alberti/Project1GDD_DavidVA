@@ -11,7 +11,7 @@ además de personalización de tu avatar que el juego tuviera un componente mult
 
 Siendo un mes de desarrollo, he intentado reflejar lo que me ha parecido que se podía abordar en ese tiempo. Y aún así, creo que me he pasado.
 
-El problema que le veo es que al ir enrevesándose los niveles cada vez más, el desarrollo de los últimos sería más difícil, por lo que habría que perfilar muy bien desde el diseño. 
+El problema que le veo es que son muchos niveles (me he dado cuenta al hacer el proyecto GitHub de producción), aunque sean de una pantalla estática habría que correr mucho. Creo que sería más realista, dado el tiempo del que dispone el proyecto, que el juego tuviera menos niveles, o que se lanzara una primera versión reducida en esos 30 días. Además, al ir enrevesándose las fases cada vez más, el desarrollo de las últimas sería más difícil, por lo que habría que perfilar muy bien desde el diseño.
 Lo mismo podría decirse del tema de los jefes y niveles “contemplativos” que deberían tener unas mecánicas diferentes. 
 También me hubiera gustado desarrollar más la parte de arte, pero no acababa de estar seguro. 
 Ante la falta de una decisión clara he optado por poner un par de ejemplos orientativos de cómo me imagino el juego. 
