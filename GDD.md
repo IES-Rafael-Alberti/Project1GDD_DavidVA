@@ -13,10 +13,15 @@ Tienes un minuto para superar cada nivel.
 Cada nivel representa un año de vida de tu personaje. 
 
 Esta podría ser la estructura de los primeros niveles:
+
 1-Comienzas en la completa oscuridad. Aparecen una luz y una puerta. Dentro de la luz tu personaje. Cruzas la puerta y suena una música. Has superado el nivel.
+
 2-Tienes que coger una moneda y cruzar una puerta. Hasta que no la coges, la puerta no se abre.
+
 3-Tienes que derrotar a un enemigo, saltando encima, y cruzar una puerta. Hasta que no los pisas no se abre la puerta.
+
 4-Tienes que derrotar un enemigo, saltar una plataforma y cruzar una puerta.
+
 5-Plataforma, moneda y dos enemigos
 
 El juego irá añadiendo capas de dificultad de forma progresiva, de tal forma que el jugador se encuentre con un reto cada vez mayor. En los últimos niveles la pantalla se volverá una maraña de plataformas, enemigos, ítems y puzzles.
